@@ -1,0 +1,78 @@
+{
+    "nav": {
+        "destinacije": "Destinations",
+        "oNama": "About us",
+        "kontakt": "Contact"
+    },
+
+    "aboveHeader": {
+        "tekst": "Free shipping on 3+ ordered books"
+    },
+
+    "hero": {
+        "heading": "Every journey deserves to be remembered",
+        "paragraf": "We spend months planning the perfect trip, yet only a moment preserving the memories. Your travels deserve more — create a photo book and relive every moment, on every page.",
+        "scroll": "Explore more",
+        "stat1": "books printed",
+        "stat2": "average rating",
+        "stat3": "delivery"
+    },
+
+    "btn": {
+        "nd": "Create your design",
+        "pr": "View reviews"
+    },
+
+    "albumi": {
+        "heading": "Popular Albums",
+        "paragraf": "Handcrafted albums for every journey — printed on premium paper.",
+        "btn": "View more"
+    },
+
+    "oNama": {
+        "heading": "Preserve your adventures in books that last forever.",
+        "p1": "We believe memories deserve more than being forgotten on your phone. That's why we create personalised travel books — unique stories saved on paper that you can browse, gift, and keep forever.",
+        "p2": "Our work is simple, but special: you send us your photos and we turn them into an elegantly designed book that tells your story — whether it's a trip, an adventure, a love story, or family moments.",
+        "btn1": "Create a Design",
+        "btn2": "Browse Albums"
+    },
+
+    "koraci": {
+        "heading": "Create your design in just 3 steps",
+        "paragraf": "With Travelbook, your photos become more than memories.",
+        "korak1": { "naslov": "Upload your photos", "tekst": "Pick your favourite travel shots and upload them directly from your phone or computer." },
+        "korak2": { "naslov": "Choose a design", "tekst": "Select one of our premium layouts and customise the text and page arrangement." },
+        "korak3": { "naslov": "Order and enjoy", "tekst": "Place your order and we'll deliver your finished book within 48 hours." },
+        "btn": "Create your design"
+    },
+
+    "cena": {
+        "stranice": "Pages",
+        "cena": "Price"
+    },
+
+    "utisci": {
+        "heading": "What Our Customers Say",
+        "paragraf": "Thousands of photos often end up forgotten on a phone. Our customers turned theirs into elegant photo books they can browse for years to come. Here's what they have to say about their experience.",
+        "btn": "View More Reviews"
+    },
+
+    "kolekcije": {
+        "heading": "Explore our collections",
+        "paragraf": "Every memory deserves its place. From romantic moments to family gatherings and unforgettable times with friends — discover albums that preserve the most beautiful moments of your life.",
+        "btn": "View more",
+        "k1": { "naslov": "Love Moments", "tekst": "Preserve the most beautiful moments of your love story — from your first trips together to all the special memories you want to treasure forever." },
+        "k2": { "naslov": "Family Memories", "tekst": "Family is where the best memories are made. Capture shared moments and everyday joys in an album you'll love to browse for years." },
+        "k3": { "naslov": "Friends Are Moments", "tekst": "The best memories are often made with friends. Preserve unforgettable moments and adventures in an album that will always bring you back to those times." }
+    },
+
+    "footer": {
+        "heading": "Create Your Unique Design",
+        "btn": "Create a Design",
+        "services": { "heading": "Services", "about": "About us", "pricing": "Pricing", "blog": "Blog", "careers": "Careers" },
+        "company": { "heading": "Company", "support": "Support", "privacy": "Privacy Policy", "terms": "Terms of Use", "guide": "Video Guide" },
+        "contact": { "heading": "Contact" },
+        "copyright": "Copyright @ Travelbook, All rights reserved.",
+        "bottomLinks": { "support": "Customer Support", "terms": "Terms of Use", "privacy": "Privacy Policy" }
+    }
+}

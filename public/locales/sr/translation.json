@@ -1,0 +1,109 @@
+{
+    "nav": {
+        "destinacije": "Destinacije",
+        "oNama": "O nama",
+        "kontakt": "Kontakt"
+    },
+
+    "aboveHeader": {
+        "tekst": "Na 3+ poručene knjige dostava je besplatna"
+    },
+
+    "hero": {
+        "heading": "Svako putovanje zaslužuje da bude zapamćeno",
+        "paragraf": "Mesecima planiramo savršeno putovanje, a samo minut posvetimo čuvanju uspomena. Vaša putovanja zaslužuju više — napravite foto knjigu i doživite svaki trenutak iznova, na svakoj stranici.",
+        "scroll": "Istraži više",
+        "stat1": "knjiga štampano",
+        "stat2": "prosečna ocena",
+        "stat3": "dostava"
+    },
+
+    "btn": {
+        "nd":"Napravi svoj dizajn",
+        "pr":"Pogeldaj recenzije"
+    },
+
+    "albumi": {
+        "heading": "Popularni Albumi",
+        "paragraf": "Ručno dizajnirani albumi za svako putovanje — odštampani na premium papiru.",
+        "btn": "Pogledaj više"
+    },
+
+    "oNama": {
+        "heading": "Sačuvajte svoje avanture u knjigama koje traju zauvek.",
+        "p1": "Mi verujemo da uspomene zaslužuju više od toga da ostanu zaboravljene u telefonu. Zato stvaramo personalizovane travel book knjige — jedinstvene priče sačuvane na papiru, koje možete listati, poklanjati i čuvati zauvek.",
+        "p2": "Naš posao je jednostavan, ali poseban: vi nam pošaljete svoje fotografije, a mi ih pretvaramo u elegantno dizajniranu knjigu koja priča vašu priču — bilo da je to putovanje, avantura, ljubavna priča ili porodični trenuci.",
+        "btn1": "Napravi Dizajn",
+        "btn2": "Pogledaj Albume"
+    },
+
+    "koraci": {
+        "heading": "Napravi svoj dizajn u samo 3 koraka",
+        "paragraf": "Sa Travelbook-om, tvoje fotografije postaju više od uspomena.",
+        "korak1": { "naslov": "Otpremite fotografije", "tekst": "Izaberi svoje omiljene slike sa putovanja i otpremite ih direktno sa telefona ili računara." },
+        "korak2": { "naslov": "Izaberi dizajn", "tekst": "Odaberi jedan od naših premijum dizajna i prilagodi tekst i raspored stranica." },
+        "korak3": { "naslov": "Poruči i uživaj", "tekst": "Naruči svoju knjigu i dostavićemo je za 48h na tvoju adresu." },
+        "btn": "Napravi dizajn"
+    },
+
+    "cena": {
+        "stranice": "Stranice",
+        "cena": "Cena"
+    },
+
+    "utisci": {
+        "heading": "Vaši Utisci",
+        "paragraf": "Hiljade fotografija često ostanu zaboravljene na telefonu. Naši klijenti su ih pretvorili u elegantne fotoknjige koje će moći da listaju godinama. Evo šta oni kažu o svom iskustvu.",
+        "btn": "Pogledaj Ostale Utiske"
+    },
+
+    "kolekcije": {
+        "heading": "Istražite naše kolekcije",
+        "paragraf": "Svaka uspomena zaslužuje svoje mesto. Od romantičnih trenutaka, preko porodičnih okupljanja, do nezaboravnih druženja sa prijateljima – otkrijte albume koji čuvaju najlepše trenutke vašeg života.",
+        "btn": "Pogledaj više",
+        "k1": { "naslov": "Ljubavni trenuci", "tekst": "Sačuvajte najlepše trenutke vaše ljubavne priče – od prvih putovanja zajedno i svih posebnih uspomena koje želite da pamtite zauvek." },
+        "k2": { "naslov": "Porodične uspomene", "tekst": "Porodica je mesto gde nastaju najlepše uspomene. Sačuvajte zajedničke trenutke i svakodnevne radosti u albumu koji ćete rado listati godinama." },
+        "k3": { "naslov": "Prijatelji su trenuci", "tekst": "Najbolje uspomene često nastaju uz prijatelje. Sačuvajte nezaboravne trenutke i avanture u albumu koji će vas uvek vraćati tim trenucima." }
+    },
+
+    "footer": {
+        "heading": "Kreirajte Svoj Jedinstveni Dizajn",
+        "btn": "Napravi Dizajn",
+        "services": { "heading": "Usluge", "about": "O nama", "pricing": "Cene", "blog": "Blog", "careers": "Karijere" },
+        "company": { "heading": "Kompanija", "support": "Podrška", "privacy": "Politika privatnosti", "terms": "Uslovi korišćenja", "guide": "Video vodič" },
+        "contact": { "heading": "Kontakt" },
+        "copyright": "Copyright @ Travelbook, All rights reserved.",
+        "bottomLinks": { "support": "Korisnička podrška", "terms": "Uslovi korišćenja", "privacy": "Politika privatnosti" }
+    },
+    "about": {
+        "hero": {
+            "heading": "Sačuvajte svoje avanture u knjigama koje traju zauvek.",
+            "paragraf": "Mi verujemo da uspomene zaslužuju više od toga da ostanu zaboravljene u telefonu. Zato stvaramo personalizovane travel book knjige — jedinstvene priče sačuvane na papiru, koje možete listati, poklanjati i čuvati zauvek.",
+            "stat1": "Odštampanih Albuma",
+            "stat2": "Dostava širom sveta",
+            "stat3": "Zadovoljnih klijenata"
+        },
+        "section2": {
+            "heading": "Vaše uspomene zaslužuju više od ekrana",
+            "p1": "Fotografije često ostanu zaboravljene u telefonu ili na računaru. Naš cilj je da ih pretvorimo u pažljivo dizajnirane photobook albume koji čuvaju vaše najlepše trenutke na jednom mestu.",
+            "p2": "Bilo da su u pitanju putovanja, porodični trenuci ili posebne uspomene sa prijateljima, svaki album je personalizovan i izrađen sa pažnjom prema detaljima.",
+            "btn1": "Napravi svoj dizajn",
+            "btn2": "Pogledaj recenzije"
+        }
+    },
+    "kontakt": {
+        "email": {
+            "naslov": "Pošaljite Nam Email",
+            "tekst": "Voleli bi smo da čujemo vaše mišljenje! Slobodno nas kontaktirajte putem email-a"
+        },
+        "telefon": {
+            "naslov": "Pozovite nas",
+            "tekst": "Tu smo da pomognemo! Ne oklevajte da nas kontaktirate telefonom"
+        }
+    },
+    "instagram": {
+        "heading": "Zapratite Nas na Instagramu",
+        "link": "@travelbook.rs"
+    }
+    
+}
